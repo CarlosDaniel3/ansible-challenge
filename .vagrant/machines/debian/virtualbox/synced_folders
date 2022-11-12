@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/carlos/Workspaces/devops/ansible-challenge01","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
