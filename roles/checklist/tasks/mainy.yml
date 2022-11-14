@@ -1,0 +1,6 @@
+---
+- name: Instalando pacotes essenciais 
+  apt:
+   name: "{{ pacotes }}"
+   state: present
+...
