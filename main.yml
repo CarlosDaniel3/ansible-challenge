@@ -2,3 +2,4 @@
   roles:
     - checklist
     - create-user
+    - nginx
