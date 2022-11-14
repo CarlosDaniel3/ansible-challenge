@@ -1,0 +1,6 @@
+---
+ - name: Criando usuário
+   user:
+      name: "{{ username }}"
+      password: "{{ password }}"
+...
